@@ -1,0 +1,19 @@
+﻿Build started 09/02/2014 23:03:25.
+     1>Project "C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\GCUGPBaseCode\GCUGPBaseCode.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GCUGPBaseCode.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\SFML-2.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\Debug\GCUGPBaseCode.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.1\lib" "sfml-main-d.lib" "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" opengl32.lib GLu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\Debug\GCUGPBaseCode.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\Debug\GCUGPBaseCode.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Sprite.obj
+         GCUGPBaseCode.vcxproj -> C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\Debug\GCUGPBaseCode.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GCUGPBaseCode.unsuccessfulbuild".
+         Touching "Debug\GCUGPBaseCode.lastbuildstate".
+     1>Done Building Project "C:\Users\bmd1\documents\visual studio 2012\Projects\GCUGPBaseCode\GCUGPBaseCode\GCUGPBaseCode.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.55
